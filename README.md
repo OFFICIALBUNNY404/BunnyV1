@@ -3,8 +3,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/build-Mr.BUNNY-badge?style=flat-square&logo=bitcoin&logoColor=yellow&label=Author&labelColor=grey&color=yellow"><br>
 <img width="225" height="225" src="https://files.catbox.moe/1ckbxn.jpeg"><br>Donate Me :).. (Payment : Qris)<br><br>
-<img src="https://th.bing.com/th/id/OIP.dcdTLANDPGPrcgbXBnBWjAHaEK?rs=1&pid=ImgDetMain" style="height: 5%; width: 55%;"><br>
-<img src="https://files.catbox.moe/25dtwd.jpg" style="height: 30%; width: 30%;"><br>
+<img src="https://files.catbox.moe/25dtwd.jpg" style="height: 5%; width: 55%;"><br>
+<img src="[https://files.catbox.moe/25dtwd.jpg]" style="height: 30%; width: 30%;"><br>
 </center>
 <span>Do Not Recode This Project, Skiddo Scripter.</span><br>
 </p>
