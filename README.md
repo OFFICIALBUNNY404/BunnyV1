@@ -6,7 +6,7 @@
 <img src="https://files.catbox.moe/25dtwd.jpg" style="height: 5%; width: 55%;"><br>
 <img src="[https://files.catbox.moe/25dtwd.jpg]" style="height: 30%; width: 30%;"><br>
 </center>
-<span>Do Not Recode This Project, Skiddo Scripter.</span><br>
+<span>Do Not Recode This Project, OFFICIALBUNNY404.</span><br>
 </p>
 
 #Feature
@@ -60,7 +60,7 @@
     4. apt install git
     5. apt install python3-pip
     6. apt install python2 && apt install python3
-    7. git clone https://github.com/MrSanZz/BUNNYV1
+    7. git clone https://github.com/OFFICIALBUNNY404/BunnyV1
     8. cd BUNNYV1
     9. pip3 install -r requirements.txt
     10. python3 BUNNYV1.py
@@ -75,7 +75,7 @@
     4. apt install python3-pip
     5. apt install python3
     6. apt install git
-    7. git clone https://github.com/MrSanZz/BUNNYV1
+    7. git clone https://github.com/OFFICIALBUNNY404/BunnyV1
     8. cd BUNNYV1
     9. pip3 install -r requirements.txt
     10. python3 BUNNYV1.py
@@ -89,7 +89,7 @@
     4. pkg install python3
     5. pkg install git
     6. pkg install figlet
-    7. git clone https://github.com/MrSanZz/BUNNYV1
+    7. git clone https://github.com/OFFICIALBUNNY404/BunnyV1
     8. cd BUNNYV1
     9. pip3 install -r requirements.txt
     10. python3 BUNNYV1.py
